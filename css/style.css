@@ -22,7 +22,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   gap: 2px;
-  background-image: url(/images/grid.png);
+  background-image: url(../images/grid.png);
   background-color: #fff;
   background-size: 100%;
   -webkit-background-size: 100%;
@@ -42,11 +42,11 @@ body {
 }
 
 .circle {
-  background-image: url(/images/circle.png);
+  background-image: url(../images/circle.png);
 }
 
 .cross {
-  background-image: url(/images/cross.png);
+  background-image: url(../images/cross.png);
 }
 
 .result {
